@@ -230,3 +230,4 @@ def build_pillar_encoder(cfg) -> PillarEncoder:
         x_offset=cfg.x_offset,
         y_offset=cfg.y_offset,
     )
+
