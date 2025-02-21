@@ -19,7 +19,7 @@ checkpoints/
 outputs/
 wandb/
 .wandb/
-data/
+/data/
 *.pkl
 *.npy
 *.npz
